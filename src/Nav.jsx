@@ -29,10 +29,10 @@ function Nav(){
     return(<div style={stylings}>
       <p className="glow">Tekion</p>
       <p style={stylep}>
-        <a href="http://">About</a>
-        <a href="http://">Home</a>
-        <a href="http://">Products</a>
-        <a href="http://">Careers</a>
+        <a href="https://tekion.com/about-us">About</a>
+        <a href="https://tekion.com/">Home</a>
+        <a href="https://tekion.com/products">Products</a>
+        <a href="https://tekion.com/careers">Careers</a>
       </p>
     </div>)
 }
